@@ -1,0 +1,18 @@
+.nasir{
+    text-align: center;
+}
+h1[value="1"]{
+    color: purple;
+}
+h2[value="2"]{
+    color: green;
+}
+h3[value="3"]{
+    color: red;
+}
+*{
+    background: lightgray;
+}
+a[value="4"]{
+  text-align: center;
+}
